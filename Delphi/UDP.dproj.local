@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/11/27 23:57:06.000.921,=C:\Users\Sileide Campos\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/11/28 00:04:37.000.962,=C:\Users\Sileide Campos\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/12/10 22:09:50.000.598,=C:\Users\Sileide Campos\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/12/14 14:54:11.000.668,=C:\Users\Sileide Campos\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/02/14 16:43:12.000.619,=C:\Users\Sileide Campos\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/02/14 17:11:46.000.985,=C:\Users\Sileide Campos\Documents\Embarcadero\Studio\Projects\ClientClassesUnit1.pas</Transaction>
+    <Transaction>2020/02/14 17:11:51.000.081,=C:\Users\Sileide Campos\Documents\Embarcadero\Studio\Projects\ClientModuleUnit1.pas</Transaction>
+    <Transaction>2020/02/14 17:27:15.000.165,C:\Users\Sileide Campos\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Sileide Campos\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2020/03/29 09:49:59.000.889,=C:\Users\Sileide Campos\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/03/29 09:53:44.000.862,C:\Users\Sileide Campos\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Sileide Campos\Videos\udp_delphi\UPrincipal.pas</Transaction>
+    <Transaction>2020/03/29 09:53:44.000.862,C:\Users\Sileide Campos\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Users\Sileide Campos\Videos\udp_delphi\UPrincipal.fmx</Transaction>
+    <Transaction>2020/03/29 09:53:53.000.511,C:\Users\Sileide Campos\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Sileide Campos\Videos\udp_delphi\UDP.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android="0054462160"/>
+	</ActiveMobileDevice>
+</BorlandProject>
