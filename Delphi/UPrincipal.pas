@@ -67,8 +67,6 @@ begin
   begin
     FThread := TThread.CreateAnonymousThread(procedure
       begin
-        while not TThread.CheckTerminated do
-        begin
           udp.Send('temp');
           sleep(100);
           TThread.Synchronize(nil,
@@ -76,8 +74,7 @@ begin
             begin
               edtTemp.Text := udp.ReceiveString(700);
             end
-          );
-        end;
+          );        
       end);
     FThread.FreeOnTerminate := false;
     FThread.Start;
